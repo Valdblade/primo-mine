@@ -1,1 +1,1 @@
-# primo-mine
+# Built with [primo](https://primo.af)
